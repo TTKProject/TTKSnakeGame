@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>res/apple.png</file>
+        <file>res/ground.png</file>
+        <file>res/head_up.png</file>
+        <file>res/head_down.png</file>
+        <file>res/head_right.png</file>
+        <file>res/head_left.png</file>
+	<file>res/body_up.png</file>
+        <file>res/body_down.png</file>
+        <file>res/body_right.png</file>
+        <file>res/body_left.png</file>
+	<file>res/stone.png</file>
+    </qresource>
+</RCC>
